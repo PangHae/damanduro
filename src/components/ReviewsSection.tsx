@@ -39,9 +39,9 @@ export function ReviewsSection() {
                 <span className="text-yellow-400">⭐</span>
               </div>
               <p className="text-gray-700 leading-relaxed">
-                "홈페이지 만들고 나서 예약이 정말 많이 늘었어요. 특히 모바일에서
+                홈페이지 만들고 나서 예약이 정말 많이 늘었어요. 특히 모바일에서
                 예약이 쉬워서 젊은 고객들이 많이 찾아주세요. 1년 A/S도 든든하고
-                추천합니다!"
+                추천합니다!
               </p>
             </CardContent>
           </Card>
@@ -68,9 +68,9 @@ export function ReviewsSection() {
                 <span className="text-yellow-400">⭐</span>
               </div>
               <p className="text-gray-700 leading-relaxed">
-                "처음에는 잘 모르겠어서 걱정했는데, 사용법도 친절하게 알려주시고
+                처음에는 잘 모르겠어서 걱정했는데, 사용법도 친절하게 알려주시고
                 관리자 페이지도 정말 편해요. 예약 관리가 이렇게 쉬울 줄
-                몰랐습니다."
+                몰랐습니다.
               </p>
             </CardContent>
           </Card>
@@ -95,8 +95,8 @@ export function ReviewsSection() {
                 <span className="text-yellow-400">⭐</span>
               </div>
               <p className="text-gray-700 leading-relaxed">
-                "디자인이 정말 예뻐요! 인스타그램에 올린 것처럼 멋지게 나와서
-                손님들이 많이 칭찬해주세요. 네이버에서도 잘 나와서 만족합니다."
+                디자인이 정말 예뻐요! 인스타그램에 올린 것처럼 멋지게 나와서
+                손님들이 많이 칭찬해주세요. 네이버에서도 잘 나와서 만족합니다.
               </p>
             </CardContent>
           </Card>

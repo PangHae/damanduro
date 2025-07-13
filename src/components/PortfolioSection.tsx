@@ -1,5 +1,7 @@
 "use client";
 
+import Image from "next/image";
+
 import { Card, CardContent } from "@/components/ui/card";
 
 export function PortfolioSection() {
@@ -19,7 +21,7 @@ export function PortfolioSection() {
           {/* Portfolio Item 1 */}
           <Card className="overflow-hidden hover:shadow-lg transition-all duration-300 hover:-translate-y-2">
             <div className="relative h-64">
-              <img
+              <Image
                 src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600"
                 alt="Modern mountain resort with wooden cabins"
                 className="w-full h-full object-cover"
@@ -54,7 +56,7 @@ export function PortfolioSection() {
           {/* Portfolio Item 2 */}
           <Card className="overflow-hidden hover:shadow-lg transition-all duration-300 hover:-translate-y-2">
             <div className="relative h-64">
-              <img
+              <Image
                 src="https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600"
                 alt="Cozy guesthouse with modern interior"
                 className="w-full h-full object-cover"
@@ -89,7 +91,7 @@ export function PortfolioSection() {
           {/* Portfolio Item 3 */}
           <Card className="overflow-hidden hover:shadow-lg transition-all duration-300 hover:-translate-y-2">
             <div className="relative h-64">
-              <img
+              <Image
                 src="https://images.unsplash.com/photo-1554118811-1e0d58224f24?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600"
                 alt="Charming cafe with outdoor seating"
                 className="w-full h-full object-cover"
